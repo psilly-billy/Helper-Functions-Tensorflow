@@ -1,6 +1,5 @@
 # Helper-Functions-Tensorflow
 
-# Helper-Functions-Tensorflow
 Get helper functions file
 ```python
 
